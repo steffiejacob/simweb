@@ -22,6 +22,6 @@ Run:
     $ set env SK_WEBGET_DEBUG=0
     $ .build/webget [options] <URL>
 
-    OR
+OR
 
     $ .build/webget IPVERSION=6 USER_AGENT="Mozilla/4.0 (compatible; MSIE 8.0;Windows NT 6.0)" SIMWEB_L www.facebook.com
